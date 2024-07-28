@@ -1,0 +1,35 @@
+{
+  "name": "capsolver-npm",
+  "version": "2.0.2",
+  "description": "Manage to solve captcha challenges with AI in a NodeJS app (captcha service based).",
+  "main": "src/Solver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0qwertyy/capsolver-npm.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "hcaptcha",
+    "funcaptcha",
+    "datadome",
+    "geetest",
+    "puppeteer-extra",
+    "captcha-solver",
+    "2captcha",
+    "capsolver.com",
+    "capmonster"
+  ],
+  "author": "0qwertyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0qwertyy/capsolver-npm/issues"
+  },
+  "homepage": "https://github.com/0qwertyy/capsolver-npm",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.4.5"
+  }
+}
